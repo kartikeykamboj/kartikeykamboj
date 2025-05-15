@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kartikeykamboj
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and C
 - 🌱 I’m currently learning Open-Source Developement
 - 💞️ I’m looking to collaborate on Various Technologies
 - 📫 How to reach me:
@@ -7,7 +7,7 @@
   GITHUB: @kartikeykamboj
   INSTAGRAM: @car.tick.aeyy
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Proficient English Speaker
+- ⚡ Fun fact: Proficient English and German Speaker
 
 <!---
 kartikeykamboj/kartikeykamboj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
