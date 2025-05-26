@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kartikeykamboj
-- 👀 I’m interested in Python and C
+- 👀 I’m interested in Python development and C
 - 🌱 I’m currently learning Open-Source Developement
 - 💞️ I’m looking to collaborate on Various Technologies
 - 📫 How to reach me:
